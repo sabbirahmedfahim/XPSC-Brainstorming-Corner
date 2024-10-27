@@ -3,14 +3,14 @@
 3. problem 3   ✅ day-1
 4. problem 4  
 5. problem 5   ✅ day-2  
-6. problem 6  
+6. problem 6   ✅ day-2  
 7. problem 7   ✅ day-1
 8. problem 8   ✅ day-1
 9. problem 9   ✅ day-2
 10. problem 10 ✅ day-2
 11. problem 11  
 12. problem 12 ✅ day-2
-13. problem 13
+13. problem 13 ✅ day-2
     
 ---
 
