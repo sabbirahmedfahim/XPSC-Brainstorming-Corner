@@ -8,7 +8,7 @@ using namespace std;
 void solve()
 {
     string s; cin >> s;
-    stack<int> cap, sml;
+    deque<int> cap, sml;
     for (int i = 0; i < s.size(); i++)
     {
         if(s[i] == 'B')
@@ -16,8 +16,8 @@ void solve()
             s[i] = '#';
             if(!cap.empty())
             {
-                s[cap.top()] = '#';
-                cap.pop();
+                s[cap.back()] = '#';
+                cap.pop_back();
             }
         }
         else if(s[i] == 'b')
@@ -25,14 +25,14 @@ void solve()
             s[i] = '#';
             if(!sml.empty()) 
             {
-                s[sml.top()] = '#';
-                sml.pop();
+                s[sml.back()] = '#';
+                sml.pop_back();
             }
         }
         else
         {
-            if(s[i] >= 'A' && s[i] <= 'Z') cap.push(i);
-            else sml.push(i);
+            if(s[i] >= 'A' && s[i] <= 'Z') cap.push_back(i);
+            else sml.push_back(i);
         }
     }
     for(auto data : s)
