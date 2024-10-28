@@ -1,7 +1,7 @@
 1. problem 1   ✅ day-1
 2. problem 2   ✅ day-1
 3. problem 3   ✅ day-1
-4. problem 4  
+4. problem 4   ✅ day-2
 5. problem 5   ✅ day-2  
 6. problem 6   ✅ day-2  
 7. problem 7   ✅ day-1
