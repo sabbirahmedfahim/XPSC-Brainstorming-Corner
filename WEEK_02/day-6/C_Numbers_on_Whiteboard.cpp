@@ -7,8 +7,8 @@ using namespace std;
 void solve()
 {
     int n; cin >> n;
-    priority_queue<float> pq;
-    for (float i = 1; i <= n; i++)
+    priority_queue<int> pq;
+    for (int i = 1; i <= n; i++)
     {
         pq.push(i);
     }
@@ -16,12 +16,13 @@ void solve()
     cout << 2 << nl;
     while (pq.size() > 1)
     {
-        float r = pq.top();
+        int r = pq.top();
         pq.pop();
-        float l = pq.top();
+        int l = pq.top();
         pq.pop();
         cout << r << " " << l << nl;
-        pq.push(round((l+r)/2));
+        pq.push(((l+r+1)/2)); // -> +1
+        // to get round number, added '1' in the calculation [(l+r+1)/2] -> +1
     }
 }
 int main()
