@@ -14,30 +14,22 @@ void solve()
     for (int i = 0; i < m; i++)
     {
         int data; cin >> data; data--;
-        // v[i] = data;
         st.insert(data);
     }
     string c; cin >> c;
 
     // operation part
-    vector<char> charStore;
-    for(auto data : c) charStore.push_back(data);
-    sort(charStore.rbegin(), charStore.rend());
-    map<int, char> mp;
+    priority_queue<char, vector<char>, greater<char>> charStore;
+    for(auto data : c) charStore.push(data);
     int sz = st.size();
-    for (int i = 0; i < sz; i++)
+
+    for(auto data : st)
     {
-        // charStore er shob gula char ke v[i] e link korbo so that s -> char update korte pari
-        auto it = st.begin();
-        mp[*it] = charStore.back();
-        st.erase(st.begin());
-        charStore.pop_back();
+        // charStore er shob gula char ke main string 's' e link korbo so that s -> char update korte pari
+        s[data] = charStore.top();
+        charStore.pop();
     }
-    
-    for(auto [key, val] : mp)
-    {
-        s[key] = val;
-    }
+
     cout << s << nl;
 }
 int main()
