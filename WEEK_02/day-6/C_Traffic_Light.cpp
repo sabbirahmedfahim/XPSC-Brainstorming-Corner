@@ -18,14 +18,14 @@ void solve()
             cnt++; cntKorbeNaki = true;
             continue;
         }
-        if(cntKorbeNaki) cnt++;
-        if(s[i] == 'g')
+        else if(s[i] == 'g')
         {
             mx = max(mx, cnt); cnt = 0; cntKorbeNaki = false;
         }
+        if(cntKorbeNaki) cnt++;
     }
     
-    cout << max(0, mx - 1) << nl;
+    cout << mx << nl;
 }
 int main()
 {
