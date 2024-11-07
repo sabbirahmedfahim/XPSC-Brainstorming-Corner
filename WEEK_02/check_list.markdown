@@ -9,7 +9,7 @@
 9. problem 9    ✅ day-6
 10. problem 10
 11. problem 11
-12. problem 12
+12. problem 12  ✅ day-6
 13. problem 13
 14. problem 14
 
