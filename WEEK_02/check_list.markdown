@@ -11,7 +11,7 @@
 11. problem 11  ✅ day-7
 12. problem 12  ✅ day-6
 13. problem 13  ✅ day-7
-14. problem 14
+14. problem 14  ✅ CHECK OUT week-3, day-1
 
 --- 
 
