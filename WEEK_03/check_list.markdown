@@ -1,4 +1,4 @@
-1. problem 1
+1. problem 1    ✅ day-2
 2. problem 2
 3. problem 3
 4. problem 4
