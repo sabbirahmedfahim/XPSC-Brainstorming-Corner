@@ -1,5 +1,5 @@
 1. problem 1    ✅ day-2
-2. problem 2
+2. problem 2    ✅ day-3
 3. problem 3
 4. problem 4    ✅ day-3
 5. problem 5
