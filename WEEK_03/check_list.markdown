@@ -5,7 +5,7 @@
 5. problem 5    ✅ day-5
 6. problem 6    ✅ day-7
 7. problem 7    ✅ day-3
-8. problem 8
+8. problem 8    ✅ day-7
 9. problem 9
 10. problem 10
 11. problem 11
