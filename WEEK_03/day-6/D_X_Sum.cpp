@@ -12,88 +12,28 @@ The directions are -> (1,1), (-1,1), (-1,-1), (1,-1).
 Look at the given illustration to understand the pattern.
 To detect the directions, you should draw (0, 0) x, y axis
 */
-/*DFS START ############################################################################ DFS START*/
 const int N = 205;
 int mat[N][N];
 bool vis[N][N];
 int n, m;
-// int si, sj, di, dj;
-// vector<pair<int, int>> d = {{0, 1}, {0, -1}, {-1, 0}, {1, 0}};
 vector<pair<int, int>> d = {{1,1}, {-1, 1}, {-1, -1}, {1, -1}};
+int cur_ci, cur_cj;
 bool is_valid(int ci, int cj)
 {
-    if (ci >= n || ci < 0 || cj >= m || cj < 0)
-        return false;
-    return true;
+    return !(ci >= n || ci < 0 || cj >= m || cj < 0);
 }
-// int cnt, mx = 0;
-int ans = 0, mx, finalMx = 0;
-bool isFound = false;
-void dfs_top_right(int si, int sj)
+int ans = 0, mx;
+void dfs(int si, int sj)
 {
     vis[si][sj] = true;
-    for (int i = 0; i < 1; i++)
-    {
-        int ci = si + d[0].first;  
-        int cj = sj + d[0].second; 
-
-        if (is_valid(ci, cj) && !vis[ci][cj])
+    int ci = si + cur_ci;
+    int cj = sj + cur_cj;
+    if (is_valid(ci, cj) && !vis[ci][cj])
         {
-            // cnt++; mx = max(mx, cnt);
             mx += mat[ci][cj]; ans = max(mx, ans);
-            dfs_top_right(ci, cj);
+            dfs(ci, cj);
         }
-    }
 }
-void dfs_top_left(int si, int sj)
-{
-    vis[si][sj] = true;
-    for (int i = 0; i < 1; i++)
-    {
-        int ci = si + d[1].first;  
-        int cj = sj + d[1].second; 
-
-        if (is_valid(ci, cj) && !vis[ci][cj])
-        {
-            // cnt++; mx = max(mx, cnt);
-            mx += mat[ci][cj]; ans = max(mx, ans);
-            dfs_top_left(ci, cj);
-        }
-    }
-}
-void dfs_bottom_left(int si, int sj)
-{
-    vis[si][sj] = true;
-    for (int i = 0; i < 1; i++)
-    {
-        int ci = si + d[2].first;  
-        int cj = sj + d[2].second; 
-
-        if (is_valid(ci, cj) && !vis[ci][cj])
-        {
-            // cnt++; mx = max(mx, cnt);
-            mx += mat[ci][cj]; ans = max(mx, ans);
-            dfs_bottom_left(ci, cj);
-        }
-    }
-}
-void dfs_bottom_right(int si, int sj)
-{
-    vis[si][sj] = true;
-    for (int i = 0; i < 1; i++)
-    {
-        int ci = si + d[3].first;  
-        int cj = sj + d[3].second; 
-
-        if (is_valid(ci, cj) && !vis[ci][cj])
-        {
-            // cnt++; mx = max(mx, cnt);
-            mx += mat[ci][cj]; ans = max(mx, ans);
-            dfs_bottom_right(ci, cj);
-        }
-    }
-}
-/*DFS END ############################################################################### DFS END*/
 void solve()
 {
     cin >> n >> m;
@@ -110,24 +50,19 @@ void solve()
     {
         for (int j = 0; j < m; j++)
         {
-            // cnt = 0;
             mx = 0;
             mx += mat[i][j];
             
-            // cout << mx << nl;
-            memset(vis, false, sizeof(vis));
-            dfs_top_right(i, j);
-            memset(vis, false, sizeof(vis));
-            dfs_top_left(i, j);
-            memset(vis, false, sizeof(vis));
-            dfs_bottom_left(i, j);
-            memset(vis, false, sizeof(vis));
-            dfs_bottom_right(i, j);
+            for (int k = 0; k < 4; k++)
+            {
+                memset(vis, false, sizeof(vis));
+                cur_ci = d[k].first, cur_cj = d[k].second;
+                dfs(i, j);
+            }
         }
     }
     cout << max(ans, ektaMx) << nl;
     ans = 0;
-    // cout << mx << nl;
 }
 int main()
 {
