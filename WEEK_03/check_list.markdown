@@ -3,7 +3,7 @@
 3. problem 3    ✅ day-4
 4. problem 4    ✅ day-3
 5. problem 5    ✅ day-5
-6. problem 6
+6. problem 6    ✅ day-7
 7. problem 7    ✅ day-3
 8. problem 8
 9. problem 9
