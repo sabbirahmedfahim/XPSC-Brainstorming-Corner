@@ -16,33 +16,24 @@ int main()
     for(auto &data : b) cin >> data;
 
     int l = 0, r = 0;
-    if(a.back() <= b.back())
+    while (l < n && r < m)
     {
-        while (r < m)
+        if(a[l] <= b[r])
         {
-        if(l < n && a[l] <= b[r]) 
-            {
             ans.push_back(a[l]); l++;
-            }
+        }
         else 
-           {
-           ans.push_back(b[r]); r++;
-           }
+        {
+            ans.push_back(b[r]); r++;
         }
     }
-    else 
+    while (l < n) // One of the two will work
     {
-        while (r < n)
-        {
-        if(l < m && b[l] <= a[r]) 
-            {
-            ans.push_back(b[l]); l++;
-            }
-        else 
-           {
-            ans.push_back(a[r]); r++;
-           }
-        }
+        ans.push_back(a[l]); l++;
+    }
+    while (r < m) // One of the two will work
+    {
+        ans.push_back(b[r]); r++;
     }
     
     print(ans);
