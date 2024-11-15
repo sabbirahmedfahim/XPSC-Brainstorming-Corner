@@ -6,9 +6,9 @@
 6. problem 6    ✅ day-7
 7. problem 7    ✅ day-3
 8. problem 8    ✅ day-7
-9. problem 9
+9. problem 9    ✅ CHECK OUT week-4, day-1
 10. problem 10  ✅ day-7
-11. problem 11
+11. problem 11  ✅ CHECK OUT week-4, day-1
 
 ---
 
@@ -19,7 +19,7 @@
 5. E  ✅ day-4
 6. F  ✅ day-2
 7. G  ✅ day-2
-8. H
+8. H  ✅ CHECK OUT week-4, day-1
 9. I  ✅ day-4
 10. J ✅ day-6
 
