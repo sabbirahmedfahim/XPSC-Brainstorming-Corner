@@ -24,3 +24,4 @@
 --- 
 
 - prev. I  ✅ day-1
+- prev. J  ✅ day-2
