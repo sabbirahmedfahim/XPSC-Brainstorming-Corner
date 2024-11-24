@@ -29,3 +29,4 @@
 - prev. problem 1  ✅ day-2
 - prev. problem 2  ✅ day-2
 - prev. problem 3  ✅ day-3
+- prev. problem 4  ✅ day-3
