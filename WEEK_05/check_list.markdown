@@ -28,3 +28,4 @@
 - prev. H  ✅ day-2
 - prev. problem 1  ✅ day-2
 - prev. problem 2  ✅ day-2
+- prev. problem 3  ✅ day-3
