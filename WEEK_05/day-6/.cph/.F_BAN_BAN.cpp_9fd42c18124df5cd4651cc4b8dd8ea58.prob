@@ -1,0 +1,1 @@
+{"name":"Local: F_BAN_BAN","url":"x:\\Coding\\C-progrmming\\XPSC-Brainstorming-Corner\\WEEK_05\\day-6\\F_BAN_BAN.cpp","tests":[{"id":1732804932573,"input":"2\n1\n2\n","output":"1\n1 2\n1\n2 6\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"x:\\Coding\\C-progrmming\\XPSC-Brainstorming-Corner\\WEEK_05\\day-6\\F_BAN_BAN.cpp","group":"local","local":true}
