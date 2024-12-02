@@ -6,7 +6,7 @@
 6. problem 6    ✅ CHECK OUT week-5, day-3    
 7. problem 7    ✅ CHECK OUT week-5, day-3   
 8. problem 8   
-9. problem 9    ✅ CHECK OUT week-6 maybe, day-2
+9. problem 9    ✅ CHECK OUT week-6 maybe, day-3
 10. problem 10  ✅ CHECK OUT week-6 maybe, day-2
 11.  problem 11
 
