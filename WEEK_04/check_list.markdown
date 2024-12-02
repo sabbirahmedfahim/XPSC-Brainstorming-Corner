@@ -1,12 +1,14 @@
-1. problem 1    
-2. problem 2   
-3. problem 3    
-4. problem 4   
-5. problem 5    
-6. problem 6    
-7. problem 7   
+1. problem 1    ✅ CHECK OUT week-5, day-2   
+2. problem 2    ✅ CHECK OUT week-5, day-2   
+3. problem 3    ✅ CHECK OUT week-5, day-3    
+4. problem 4    ✅ CHECK OUT week-5, day-3
+5. problem 5    ✅ CHECK OUT week-5, day-3    
+6. problem 6    ✅ CHECK OUT week-5, day-3    
+7. problem 7    ✅ CHECK OUT week-5, day-3   
 8. problem 8   
 9. problem 9
+10. problem 10  ✅ CHECK OUT week-6 maybe, day-2
+11.  problem 11
 
 ---
 
