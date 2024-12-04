@@ -1,3 +1,11 @@
+1. A
+2. B
+3. C
+4. D
+5. E
+6. F
+7. G
+---
 - prev. problem 10  ✅ day-2 [WEEK-4]
 - prev. problem 9   ✅ day-3 [WEEK-4]
 - prev. problem 8   ✅ day-4 [WEEK-4]
