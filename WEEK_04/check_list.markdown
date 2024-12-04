@@ -8,7 +8,7 @@
 8. problem 8    ✅ CHECK OUT week-6, day-4
 9. problem 9    ✅ CHECK OUT week-6, day-3
 10. problem 10  ✅ CHECK OUT week-6, day-2
-11.  problem 11
+11.  problem 11 ✅ CHECK OUT week-6, day-5
 
 ---
 
