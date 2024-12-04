@@ -4,9 +4,6 @@
 4. problem 4   
 5. problem 5    
 6. problem 6    
-7. problem 7   
-8. problem 8   
-9. problem 9
 
 ---
 
@@ -20,6 +17,12 @@
 8. H
 9. I  ✅ CHECK OUT week-6, day-5
 10. J ✅ CHECK OUT week-6, day-6
+11. K
+12. L
+13. M
+14. N
+15. O
+16. P
 
 --- 
 
