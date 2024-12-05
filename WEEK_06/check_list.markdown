@@ -13,3 +13,4 @@
 - prev. I           ✅ day-5 [WEEK-5]
 - prev. problem 11   ✅ day-5 [WEEK-4]
 - prev. J           ✅ day-6 [WEEK-5]
+- prev. N           ✅ day-6 [WEEK-5]
