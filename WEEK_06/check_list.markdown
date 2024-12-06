@@ -2,7 +2,7 @@
 2. B ✅ day-7
 3. C ✅ day-7
 4. D ✅ day-7
-5. E
+5. E ✅ day-7
 6. F
 7. G
 ---
