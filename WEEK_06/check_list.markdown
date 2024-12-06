@@ -3,7 +3,7 @@
 3. C ✅ day-7
 4. D ✅ day-7
 5. E ✅ day-7
-6. F
+6. F ✅ day-7
 7. G
 ---
 - prev. problem 10  ✅ day-2 [WEEK-4]
