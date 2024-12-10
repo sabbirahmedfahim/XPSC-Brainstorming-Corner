@@ -24,3 +24,4 @@
 
 - prev. K  ✅ day-2 [WEEK-5]
 - prev. M  ✅ day-4 [WEEK-5]
+- prev. L  ✅ day-5 [WEEK-5]
