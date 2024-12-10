@@ -19,7 +19,7 @@
 10. J ✅ CHECK OUT week-6, day-6
 11. K ✅ CHECK OUT week-7, day-2
 12. L
-13. M
+13. M ✅ CHECK OUT week-7, day-4
 14. N ✅ CHECK OUT week-6, day-6
 
 --- 
