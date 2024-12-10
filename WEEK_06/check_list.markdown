@@ -4,7 +4,7 @@
 4. D ✅ day-7
 5. E ✅ day-7
 6. F ✅ day-7
-7. G
+7. G ✅ CHECK OUT week-7, day-5
 ---
 - prev. problem 10  ✅ day-2 [WEEK-4]
 - prev. problem 9   ✅ day-3 [WEEK-4]
