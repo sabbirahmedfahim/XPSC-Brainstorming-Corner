@@ -14,7 +14,7 @@
 5. E  ✅ CHECK OUT week-6, day-4
 6. F  ✅ day-6
 7. G  ✅ day-2
-8. H
+8. H  ✅ CHECK OUT week-7, day-5
 9. I  ✅ CHECK OUT week-6, day-5
 10. J ✅ CHECK OUT week-6, day-6
 11. K ✅ CHECK OUT week-7, day-2
