@@ -28,3 +28,4 @@
 - prev. H  ✅ day-5 [WEEK-5]
 - prev. G  ✅ day-5 [WEEK-6]
 - prev. problem 1 ✅ day-7 [WEEK-5]
+- prev. problem 2 ✅ day-7 [WEEK-5]
