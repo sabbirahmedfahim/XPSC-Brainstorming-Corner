@@ -1,6 +1,6 @@
 1. problem 1 ✅ CHECK OUT week-7, day-7   
 2. problem 2 ✅ CHECK OUT week-7, day-7      
-3. problem 3    
+3. problem 3 ✅ CHECK OUT week-7, day-7    
 4. problem 4   
 5. problem 5    
 6. problem 6    
