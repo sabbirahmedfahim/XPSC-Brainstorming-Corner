@@ -22,3 +22,4 @@
 ---
 -  problem 4 ✅ day-1 [WEEK-5]
 -  problem 5 ✅ day-1 [WEEK-5]
+-  problem 6 ✅ day-3 [WEEK-5]
