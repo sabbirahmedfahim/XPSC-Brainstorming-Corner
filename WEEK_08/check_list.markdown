@@ -1,6 +1,6 @@
 1. A ✅ day-2
 2. B ✅ day-2
-3. C
+3. C ✅ day-5
 4. D
 5. E ✅ day-5
 6. F
