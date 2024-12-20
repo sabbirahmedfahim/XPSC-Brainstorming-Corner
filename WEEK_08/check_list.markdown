@@ -3,7 +3,7 @@
 3. C ✅ day-5
 4. D ✅ day-6
 5. E ✅ day-5
-6. F
+6. F ✅ day-7
 7. G
 8. H
 9. I
