@@ -1,3 +1,4 @@
 - prev. J  ✅ day-1 [WEEK-8]
 - prev. N  ✅ day-1 [WEEK-8]
 - prev. O  ✅ day-1 [WEEK-8]
+- prev. problem 1 ✅ day-3 [WEEK-7]
