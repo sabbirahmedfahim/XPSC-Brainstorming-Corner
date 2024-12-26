@@ -1,3 +1,9 @@
+1. A ✅ day-7
+2. B
+3. C ✅ day-7
+4. D
+5. E ✅ day-7
+---
 - prev. J  ✅ day-1 [WEEK-8]
 - prev. N  ✅ day-1 [WEEK-8]
 - prev. O  ✅ day-1 [WEEK-8]
