@@ -1,7 +1,7 @@
 1. A ✅ day-7
 2. B ✅ day-7
 3. C ✅ day-7
-4. D
+4. D ✅ day-7
 5. E ✅ day-7
 ---
 - prev. J  ✅ day-1 [WEEK-8]
