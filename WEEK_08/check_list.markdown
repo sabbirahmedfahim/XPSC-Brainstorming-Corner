@@ -15,10 +15,10 @@
 15. O ✅ CHECK OUT week-9, day-1
 16. P ✅ CHECK OUT week-9, day-5
 17. Q
-18. R
-19. S
+18. R ✅ CHECK OUT week-9, day-6
+19. S ✅ CHECK OUT week-9, day-6
 20. T ✅ CHECK OUT week-9, day-5    
-21. U
+21. U ✅ CHECK OUT week-9, day-5
 ---
 -  problem 4 ✅ day-1 [WEEK-5]
 -  problem 5 ✅ day-1 [WEEK-5]
