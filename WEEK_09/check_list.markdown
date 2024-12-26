@@ -9,3 +9,4 @@
 - prev. P  ✅ day-5 [WEEK-8]
 - prev. U  ✅ day-5 [WEEK-8]
 - prev. S  ✅ day-6 [WEEK-8]
+- prev. R  ✅ day-6 [WEEK-8]
