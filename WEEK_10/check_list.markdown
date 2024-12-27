@@ -1,0 +1,2 @@
+- prev. problem 2 ✅ day-1 [WEEK-7]
+- prev. problem 3 ✅ day-1 [WEEK-7]
