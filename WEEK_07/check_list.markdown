@@ -2,7 +2,7 @@
 2. Problem 2 ✅ CHECK OUT week-10, day-1
 3. Problem 3 ✅ CHECK OUT week-10, day-1
 4. Problem 4 ✅ CHECK OUT week-10, day-1
-5. Problem 5
+5. Problem 5 ✅ CHECK OUT week-10, day-1
 6. Problem 6
 7. Problem 7
 8. Problem 8
