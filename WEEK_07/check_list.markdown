@@ -1,7 +1,7 @@
 1. Problem 1 ✅ CHECK OUT week-9, day-3
 2. Problem 2 ✅ CHECK OUT week-10, day-1
 3. Problem 3 ✅ CHECK OUT week-10, day-1
-4. Problem 4
+4. Problem 4 ✅ CHECK OUT week-10, day-1
 5. Problem 5
 6. Problem 6
 7. Problem 7
