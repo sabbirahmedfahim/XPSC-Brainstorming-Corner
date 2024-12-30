@@ -44,10 +44,11 @@ void optimized()
             l++;
         }
         cnt += (r-l+1);
+        cout << r-l+1 << " ";
         r++;
     }
     
-    cout << cnt << nl;
+    // cout << cnt << nl;
 }
 int main()
 {

@@ -25,3 +25,4 @@
 - prev. problem 3 ✅ day-1 [WEEK-7]
 - prev. problem 4 ✅ day-1 [WEEK-7]
 - prev. problem 5 ✅ day-1 [WEEK-7]
+- prev. problem 2 ✅ day-3 [WEEK-9]
