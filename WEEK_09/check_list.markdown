@@ -4,9 +4,9 @@
 4. D ✅ day-7
 5. E ✅ day-7
 ---
-1. Problem 1
+1. Problem 1 ✅ CHECK OUT week-10, day-5
 2. Problem 2 ✅ CHECK OUT week-10, day-3
-3. Problem 3
+3. Problem 3 ✅ CHECK OUT week-10, day-5
 4. Problem 4
 5. Problem 5
 6. Problem 6
