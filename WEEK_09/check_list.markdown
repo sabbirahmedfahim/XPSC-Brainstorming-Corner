@@ -11,7 +11,7 @@
 5. Problem 5
 6. Problem 6
 7. Problem 7
-8. Problem 8
+8. Problem 8 ✅ CHECK OUT week-10, day-5
 9. Problem 9
 10. Problem 10
 11. Problem 11
