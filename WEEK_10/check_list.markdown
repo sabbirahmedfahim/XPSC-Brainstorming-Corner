@@ -19,7 +19,7 @@
 7. G ✅ day-4
 8. H
 9. I
-10. J
+10. J ✅ day-4
 ---
 - prev. problem 2 ✅ day-1 [WEEK-7]
 - prev. problem 3 ✅ day-1 [WEEK-7]
