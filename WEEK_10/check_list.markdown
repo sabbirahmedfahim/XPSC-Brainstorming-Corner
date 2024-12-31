@@ -28,3 +28,5 @@
 - prev. problem 2  ✅ day-3 [WEEK-9]
 - prev. problem 8  ✅ day-5 [WEEK-9]
 - prev. problem 13 ✅ day-5 [WEEK-9]
+- prev. problem 1  ✅ day-5 [WEEK-9]
+- prev. problem 3  ✅ day-5 [WEEK-9]
