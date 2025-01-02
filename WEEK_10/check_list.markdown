@@ -21,7 +21,7 @@
 9. I ✅ day-5
 10. J ✅ day-4
 11. K ✅ day-7
-12. L
+12. L ✅ day-7
 ---
 - prev. problem 2  ✅ day-1 [WEEK-7]
 - prev. problem 3  ✅ day-1 [WEEK-7]
