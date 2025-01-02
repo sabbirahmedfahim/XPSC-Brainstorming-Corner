@@ -33,3 +33,4 @@
 - prev. problem 4  ✅ day-6 [WEEK-9]
 - prev. problem 5  ✅ day-6 [WEEK-9]
 - prev. problem 6  ✅ day-6 [WEEK-9]
+- prev. problem 6  ✅ day-6 [WEEK-7]
