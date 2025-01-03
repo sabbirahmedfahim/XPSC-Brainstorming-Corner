@@ -5,8 +5,8 @@
 5. Problem 5
 6. Problem 6 ✅ day-7
 7. Problem 7
-8. Problem 8
-9. Problem 9
+8. Problem 8 (Skipped: Duplicate, see Random Problemset No. 11 -> K)
+9. Problem 9 (Skipped: Duplicate, see Random Problemset No. 12 -> L)
 10. Problem 10
 11. Problem 11
 ---
