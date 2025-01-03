@@ -1,9 +1,9 @@
-1. Problem 1
-2. Problem 2
-3. Problem 3
-4. Problem 4
+1. Problem 1 ✅ day-7
+2. Problem 2 ✅ day-7
+3. Problem 3 ✅ day-7
+4. Problem 4 ✅ day-7
 5. Problem 5
-6. Problem 6
+6. Problem 6 ✅ day-7
 7. Problem 7
 8. Problem 8
 9. Problem 9
