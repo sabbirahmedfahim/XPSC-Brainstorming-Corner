@@ -7,7 +7,7 @@
 7. Problem 7
 8. Problem 8 (Skipped: Duplicate, see Random Problemset No. 11 -> K)
 9. Problem 9 (Skipped: Duplicate, see Random Problemset No. 12 -> L)
-10. Problem 10
+10. Problem 10 ✅ CHECK OUT week-11, day-1
 11. Problem 11
 ---
 1. A ✅ day-3
