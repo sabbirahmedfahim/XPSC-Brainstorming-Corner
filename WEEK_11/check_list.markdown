@@ -6,3 +6,4 @@
 - prev. problem 14  ✅ day-2 [WEEK-9]
 - prev. problem 15  ✅ day-2 [WEEK-9]
 - prev. problem 7  ✅ day-2 [WEEK-9]
+- prev. problem 9  ✅ day-2 [WEEK-9]
