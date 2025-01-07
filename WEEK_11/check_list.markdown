@@ -1,6 +1,6 @@
 ### Week 11 | Topicwise | Binary Search - 2
 1. A
-2. B
+2. B ✅ tuesday-2
 3. C
 4. D
 5. E
