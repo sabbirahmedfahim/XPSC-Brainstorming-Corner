@@ -2,7 +2,7 @@
 1. A
 2. B ✅ tuesday-2
 3. C
-4. D
+4. D ✅ tuesday-2
 5. E
 6. F
 7. G
