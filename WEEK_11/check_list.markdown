@@ -29,3 +29,4 @@
 - prev. problem 7  ✅ day-2 [WEEK-9]
 - prev. problem 9  ✅ day-2 [WEEK-9]
 - prev. problem 11  ✅ wednesday-3 [WEEK-9]
+- prev. problem 12  ✅ wednesday-3 [WEEK-9]
