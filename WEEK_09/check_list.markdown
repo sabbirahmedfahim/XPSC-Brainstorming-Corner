@@ -13,7 +13,7 @@
 7. Problem 7 ✅ CHECK OUT week-11, day-2
 8. Problem 8 ✅ CHECK OUT week-10, day-5
 9. Problem 9 ✅ CHECK OUT week-11, day-2
-10. Problem 10
+10. Problem 10 ✅ CHECK OUT week-11, thursday-4
 11. Problem 11 ✅ CHECK OUT week-11, wednesday-3
 12. Problem 12 ✅ CHECK OUT week-11, wednesday-3
 13. Problem 13 ✅ CHECK OUT week-10, day-5
