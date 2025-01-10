@@ -32,3 +32,4 @@
 - prev. problem 12  ✅ wednesday-3 [WEEK-9]
 - prev. problem 10  ✅ thursday-4 [WEEK-9]
 - prev. problem 16  ✅ friday-5 [WEEK-9]
+- prev. problem 21  ✅ saturday-6 [WEEK-7]
