@@ -37,3 +37,4 @@
 - prev. problem 11  ✅ saturday-6 [WEEK-7]
 - prev. problem 14  ✅ sunday-7 [WEEK-7]
 - prev. problem 7  ✅ sunday-7 [WEEK-7]
+- prev. problem 8  ✅ sunday-7 [WEEK-7]
