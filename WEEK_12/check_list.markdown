@@ -27,3 +27,4 @@
 - prev. problem 10  ✅ tuesday-1 [WEEK-7]
 - prev. problem 13  ✅ tuesday-1 [WEEK-7]
 - prev. problem 15  ✅ tuesday-1 [WEEK-7]
+- prev. C ✅ tuesday-1 [WEEK-11]
