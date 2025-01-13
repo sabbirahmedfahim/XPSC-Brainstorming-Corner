@@ -14,7 +14,7 @@
 ### Week 11 Random Problem Set
 1. A ✅ monday-1 
 2. B ✅ monday-1 
-3. C
+3. C ✅ CHECK OUT week-12, tuesday-1
 4. D
 5. E
 6. F
