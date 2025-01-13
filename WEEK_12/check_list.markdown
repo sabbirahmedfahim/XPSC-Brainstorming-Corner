@@ -1,4 +1,4 @@
-- prev. problem 17  ✅ monday-1 [WEEK-7]
-- prev. problem 10  ✅ monday-1 [WEEK-7]
-- prev. problem 13  ✅ monday-1 [WEEK-7]
-- prev. problem 15  ✅ monday-1 [WEEK-7]
+- prev. problem 17  ✅ tuesday-1 [WEEK-7]
+- prev. problem 10  ✅ tuesday-1 [WEEK-7]
+- prev. problem 13  ✅ tuesday-1 [WEEK-7]
+- prev. problem 15  ✅ tuesday-1 [WEEK-7]
