@@ -7,14 +7,14 @@
 7. Problem 7 ✅ CHECK OUT week-11, sunday-7
 8. Problem 8 ✅ CHECK OUT week-11, sunday-7
 9. Problem 9 ✅ CHECK OUT week-11, saturday-6
-10. Problem 10 ✅ CHECK OUT week-12, monday-1
+10. Problem 10 ✅ CHECK OUT week-12, tuesday-1
 11. Problem 11 ✅ CHECK OUT week-11, saturday-6
 12. Problem 12
-13. Problem 13 ✅ CHECK OUT week-12, monday-1
+13. Problem 13 ✅ CHECK OUT week-12, tuesday-1
 14. Problem 14 ✅ CHECK OUT week-11, sunday-7
-15. Problem 15 ✅ CHECK OUT week-12, monday-1
+15. Problem 15 ✅ CHECK OUT week-12, tuesday-1
 16. Problem 16
-17. Problem 17 ✅ CHECK OUT week-12, monday-1
+17. Problem 17 ✅ CHECK OUT week-12, tuesday-1
 18. Problem 18
 19. Problem 19
 20. Problem 20
