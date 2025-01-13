@@ -15,7 +15,7 @@
 14. N
 ---
 ### Week 12 Random Problem Set
-1. A
+1. A ✅ tuesday-1
 2. B
 3. C
 4. D
