@@ -15,7 +15,7 @@
 15. Problem 15 ✅ CHECK OUT week-12, tuesday-1
 16. Problem 16
 17. Problem 17 ✅ CHECK OUT week-12, tuesday-1
-18. Problem 18
+18. Problem 18 ✅ CHECK OUT week-12, thursday-3
 19. Problem 19
 20. Problem 20
 21. Problem 21 ✅ CHECK OUT week-11, saturday-6
