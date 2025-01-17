@@ -30,3 +30,4 @@
 - prev. C ✅ tuesday-1 [WEEK-11]
 - prev. problem 12  ✅ wednesday-2 [WEEK-7]
 - prev. problem 18  ✅ thursday-3 [WEEK-7]
+- prev. problem 19  ✅ saturday-5 [WEEK-7]
