@@ -1,15 +1,19 @@
 ### Week 11 | Topicwise | Binary Search - 2
-1. A
-2. B ✅ tuesday-2
-3. C
-4. D ✅ tuesday-2
-5. E
-6. F
-7. G
-8. H
-9. I
-10. J
-11. K
+1. A (problem-1)
+2. A (problem-2)
+3. A (problem-3)
+4. A (problem-4)
+5. B ✅ tuesday-2
+6. C
+7. D ✅ tuesday-2
+8. E
+9. F
+10. G
+11. H
+12. I
+13. J
+14. K
+
 ---
 ### Week 11 Random Problem Set
 1. A ✅ monday-1 
