@@ -1,13 +1,13 @@
 ### Week 12 | Topicwise | Math & Number Theory - 2
-1. A
+1. A ✅ CHECK OUT week-13, friday-4
 2. B
-3. C
+3. C ✅ CHECK OUT week-13, friday-4
 4. D
-5. E
-6. F
+5. E ✅ CHECK OUT week-13, friday-4
+6. F ✅ CHECK OUT week-13, friday-4
 7. G
 8. H
-9. I
+9. I ✅ CHECK OUT week-13, friday-4
 10. J
 11. K
 12. L
