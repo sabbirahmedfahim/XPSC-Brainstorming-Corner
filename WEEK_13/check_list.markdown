@@ -7,6 +7,7 @@
 - prev. E ✅ friday-3 [WEEK-12]
 - prev. F ✅ friday-3 [WEEK-12]
 - prev. I ✅ friday-3 [WEEK-12]
+- prev. A (problem-2) ✅ saturday-4 [WEEK-11]
 
 #### Random Problems from Previous Weeks
 
