@@ -1,6 +1,6 @@
 ### Week 11 | Topicwise | Binary Search - 2
 1. A (problem-1) ✅ CHECK OUT week-13, friday-3
-2. A (problem-2)
+2. A (problem-2) ✅ CHECK OUT week-13, saturday-4
 3. A (problem-3)
 4. A (problem-4) ✅ CHECK OUT week-13, friday-3
 5. B ✅ tuesday-2
