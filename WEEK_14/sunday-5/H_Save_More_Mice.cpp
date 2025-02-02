@@ -7,18 +7,35 @@ using namespace std;
 void solve()
 {
     ll hole, k; cin >> hole >> k; deque<ll> v(k); for(auto &e : v) cin >> e;
-    sort(all(v));
-
-    ll cat = 0, cnt = 0;
-    while (!v.empty() && cat < v.back())
+    sort(all(v)); reverse(all(v));
+    
+    auto canWePlace = [&](ll mid)
     {
-        cnt++;
-        ll need = hole - v.back();
-        v.pop_back();
-        cat += need;
-    }
+        ll cnt = 0, cat = 0;
+        for (int i = 0; i < k; i++)
+        {
+            ll need = hole - v[i];
+            cat += need;
+            cnt++;
+            if(cat >= v[i]+need) break;
+            if(cnt >= mid) return true;
+        }
+        return false;
+    };
 
-    cout << cnt << nl;
+    ll l = 0, r = k, mid, ans = -1;
+    while (l <= r)
+    {
+        mid = l + (r-l)/2;
+        if(canWePlace(mid))
+        {
+            ans = mid; l = mid + 1;
+        }
+        else r = mid - 1;
+    }
+    
+
+    cout << ans << nl;
 }
 int main()
 {
