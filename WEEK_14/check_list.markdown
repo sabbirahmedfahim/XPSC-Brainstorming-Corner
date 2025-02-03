@@ -4,6 +4,7 @@
 - prev. J ✅ monday-6 [WEEK-11]
 - prev. F ✅ monday-6 [WEEK-11]
 - prev. C ✅ tuesday-7 [WEEK-11]
+- prev. G ✅ tuesday-7 [WEEK-11]
   
 #### Random Problems from Previous Weeks
 - prev. B ✅ thursday-2 [WEEK-12]
