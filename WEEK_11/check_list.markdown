@@ -21,7 +21,7 @@
 3. C ✅ CHECK OUT week-12, tuesday-1
 4. D ✅ CHECK OUT week-13, sunday-5
 5. E ✅ CHECK OUT week-13, saturday-4
-6. F
+6. F ✅ CHECK OUT week-14, tuesday-7
 7. G ✅ CHECK OUT week-14, friday-3
 ---
 - prev. problem 10  ✅ day-1 [WEEK-10]
