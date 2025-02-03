@@ -4,7 +4,7 @@
 3. A (problem-3) ✅ CHECK OUT week-14, sunday-5
 4. A (problem-4) ✅ CHECK OUT week-13, friday-3
 5. B ✅ tuesday-2
-6. C
+6. C ✅ CHECK OUT week-14, tuesday-7
 7. D ✅ tuesday-2
 8. E ✅ CHECK OUT week-13, friday-3
 9. F ✅ CHECK OUT week-14, monday-6
