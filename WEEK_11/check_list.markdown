@@ -7,17 +7,17 @@
 6. C
 7. D ✅ tuesday-2
 8. E ✅ CHECK OUT week-13, friday-3
-9. F
-10. G
+9. F ✅ CHECK OUT week-14, monday-6
+10. G ✅ CHECK OUT week-14, friday-3
 11. H ✅ CHECK OUT week-14, sunday-5
 12. I
-13. J
+13. J ✅ CHECK OUT week-14, monday-6
 14. K
 
 ---
 ### Week 11 Random Problem Set
 1. A ✅ monday-1 
-2. B ✅ monday-1 
+2. B ✅ monday-1    
 3. C ✅ CHECK OUT week-12, tuesday-1
 4. D ✅ CHECK OUT week-13, sunday-5
 5. E ✅ CHECK OUT week-13, saturday-4
