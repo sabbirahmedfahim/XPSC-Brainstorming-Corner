@@ -19,7 +19,7 @@
 2. B ✅ CHECK OUT week-14, thursday-9
 3. C
 4. D ✅ CHECK OUT week-14, thursday-9
-5. E
+5. E ✅ CHECK OUT week-14, thursday-9
 6. F
 7. G
 ---
