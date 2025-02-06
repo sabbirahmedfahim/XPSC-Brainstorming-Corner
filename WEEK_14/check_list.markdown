@@ -14,3 +14,4 @@
 - prev. F ✅ tuesday-7 [WEEK-11]
 - prev. D ✅ thursday-9 [WEEK-12]
 - prev. B ✅ thursday-9 [WEEK-12]
+- prev. E ✅ thursday-9 [WEEK-12]
