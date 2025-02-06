@@ -17,7 +17,7 @@
 ### Week 12 Random Problem Set
 1. A ✅ tuesday-1
 2. B ✅ CHECK OUT week-14, thursday-9
-3. C
+3. C ✅ CHECK OUT week-14, thursday-9
 4. D ✅ CHECK OUT week-14, thursday-9
 5. E ✅ CHECK OUT week-14, thursday-9
 6. F
