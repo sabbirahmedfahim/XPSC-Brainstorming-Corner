@@ -1,6 +1,6 @@
 ### Week 12 | Topicwise | Math & Number Theory - 2
 1. A ✅ CHECK OUT week-13, friday-3
-2. B
+2. B ✅ CHECK OUT week-15, monday-3
 3. C ✅ CHECK OUT week-13, friday-3
 4. D
 5. E ✅ CHECK OUT week-13, friday-3
