@@ -20,7 +20,7 @@
 3. C ✅ CHECK OUT week-14, thursday-9
 4. D ✅ CHECK OUT week-14, thursday-9
 5. E ✅ CHECK OUT week-14, thursday-9
-6. F
+6. F ✅ CHECK OUT week-15, friday-7
 7. G
 ---
 - prev. problem 17  ✅ tuesday-1 [WEEK-7]
