@@ -1,9 +1,9 @@
 ### Week 13 Random Problem Set
 1. A ✅ CHECK OUT week-16, monday-3
 2. B 
-3. C 
+3. C ✅ CHECK OUT week-16, monday-3
 4. D ✅ CHECK OUT week-16, monday-3
-5. E
+5. E ✅ CHECK OUT week-16, monday-3
 6. F 
 7. G
 8. H ✅ CHECK OUT week-16, monday-3
