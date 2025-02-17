@@ -5,3 +5,5 @@
 - prev. A ✅ monday-3 [WEEK-13]
 - prev. D ✅ monday-3 [WEEK-13]
 - prev. H ✅ monday-3 [WEEK-13]
+- prev. C ✅ monday-3 [WEEK-13]
+- prev. E ✅ monday-3 [WEEK-13]
