@@ -7,3 +7,4 @@
 - prev. H ✅ monday-3 [WEEK-13]
 - prev. C ✅ monday-3 [WEEK-13]
 - prev. E ✅ monday-3 [WEEK-13]
+- prev. G ✅ tuesday-4 [WEEK-12]
