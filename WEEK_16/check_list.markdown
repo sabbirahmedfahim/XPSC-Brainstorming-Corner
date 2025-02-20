@@ -1,5 +1,5 @@
 #### Topic-wise Problems from Previous Weeks
-- 
+- prev. D ✅ thursday-6 [WEEK-12]
   
 #### Random Problems from Previous Weeks
 - prev. A ✅ monday-3 [WEEK-13]
