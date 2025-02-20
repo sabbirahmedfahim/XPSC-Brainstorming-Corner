@@ -9,3 +9,4 @@
 - prev. E ✅ monday-3 [WEEK-13]
 - prev. G ✅ tuesday-4 [WEEK-12]
 - prev. B ✅ thurday-6 [WEEK-13]
+- prev. I ✅ thurday-6 [WEEK-13]
