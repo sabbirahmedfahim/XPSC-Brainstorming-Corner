@@ -5,7 +5,7 @@
 4. D ✅ CHECK OUT week-16, thursday-6
 5. E ✅ CHECK OUT week-13, friday-3
 6. F ✅ CHECK OUT week-13, friday-3
-7. G
+7. G ✅ CHECK OUT week-16, friday-7
 8. H
 9. I ✅ CHECK OUT week-13, friday-3
 10. J
