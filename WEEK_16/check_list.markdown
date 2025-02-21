@@ -2,6 +2,7 @@
 - prev. D ✅ thursday-6 [WEEK-12]
 - prev. G ✅ friday-7 [WEEK-12]
 - prev. N ✅ friday-7 [WEEK-12]
+- prev. L ✅ saturday-8 [WEEK-12]
   
 #### Random Problems from Previous Weeks
 - prev. A ✅ monday-3 [WEEK-13]
