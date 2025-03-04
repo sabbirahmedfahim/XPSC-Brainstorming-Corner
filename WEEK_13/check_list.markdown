@@ -9,7 +9,7 @@
 8. H ✅ CHECK OUT week-16, monday-3
 9. I ✅ CHECK OUT week-16, thursday-6
 10. J
-11. K
+11. K ✅ CHECK OUT week-18, tuesday-4
 12. L
 13. M
 14. N
