@@ -21,7 +21,7 @@
 4. D ✅ CHECK OUT week-19, monday-3
 5. E ✅ CHECK OUT week-19, sunday-2
 6. F ✅ CHECK OUT week-19, sunday-2
-7. G 
+7. G ✅ CHECK OUT week-19, monday-3
 ---
 
 #### Topic-wise Problems from Previous Weeks
