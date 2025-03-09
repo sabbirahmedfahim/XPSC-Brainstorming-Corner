@@ -10,3 +10,4 @@
 - prev. A ✅ sunday-2 [WEEK-14]
 - prev. B ✅ sunday-2 [WEEK-14]
 - prev. N ✅ sunday-2 [WEEK-13]
+- prev. D ✅ monday-3 [WEEK-14]
