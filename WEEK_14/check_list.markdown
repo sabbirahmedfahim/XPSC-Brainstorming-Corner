@@ -20,7 +20,7 @@
 3. C ✅ CHECK OUT week-19, sunday-2
 4. D 
 5. E 
-6. F 
+6. F ✅ CHECK OUT week-19, sunday-2
 7. G 
 ---
 
