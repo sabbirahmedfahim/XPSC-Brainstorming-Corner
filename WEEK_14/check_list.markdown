@@ -15,7 +15,7 @@
 14. N
 ---
 ### Week 14 Random Problem Set
-1. A 
+1. A ✅ CHECK OUT week-19, sunday-2
 2. B 
 3. C ✅ CHECK OUT week-19, sunday-2
 4. D 
