@@ -2,7 +2,7 @@
 1. A ✅ CHECK OUT week-19, tuesday-4
 2. B ✅ CHECK OUT week-19, tuesday-4
 3. C ✅ CHECK OUT week-19, tuesday-4
-4. D 
+4. D ✅ CHECK OUT week-19, wednesday-5
 5. E 
 6. F 
 7. G 
