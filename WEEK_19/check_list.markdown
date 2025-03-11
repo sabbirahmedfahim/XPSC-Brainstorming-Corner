@@ -15,3 +15,4 @@
 - prev. A ✅ tuesday-4 [WEEK-15]
 - prev. B ✅ tuesday-4 [WEEK-15]
 - prev. C ✅ tuesday-4 [WEEK-15]
+- prev. D ✅ wednesday-5 [WEEK-15]
