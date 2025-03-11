@@ -14,3 +14,4 @@
 - prev. G ✅ monday-3 [WEEK-14]
 - prev. A ✅ tuesday-4 [WEEK-15]
 - prev. B ✅ tuesday-4 [WEEK-15]
+- prev. C ✅ tuesday-4 [WEEK-15]
