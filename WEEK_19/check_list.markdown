@@ -19,3 +19,4 @@
 - prev. E ✅ wednesday-5 [WEEK-15]
 - prev. G ✅ wednesday-5 [WEEK-15]
 - prev. H ✅ thursday-6 [WEEK-15]
+- prev. M ✅ thursday-6 [WEEK-15]
