@@ -1,12 +1,12 @@
 ### Week 14 | Topicwise | Difference Array & PBDS
-1. A
-2. B
-3. C
-4. D
+1. A ✅ CHECK OUT week-19, saturday-8
+2. B ✅ CHECK OUT week-19, saturday-8
+3. C ✅ CHECK OUT week-19, saturday-8
+4. D ✅ CHECK OUT week-19, saturday-8
 5. E
-6. F
+6. F ✅ CHECK OUT week-19, saturday-8
 7. G
-8. H
+8. H ✅ CHECK OUT week-19, saturday-8
 9. I
 10. J
 11. K
