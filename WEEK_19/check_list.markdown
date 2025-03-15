@@ -1,10 +1,4 @@
 #### Topic-wise Problems from Previous Weeks
-- prev. A ✅ saturday-8 [WEEK-14]
-- prev. B ✅ saturday-8 [WEEK-14]
-- prev. C ✅ saturday-8 [WEEK-14]
-- prev. D ✅ saturday-8 [WEEK-14]
-- prev. F ✅ saturday-8 [WEEK-14]
-- prev. H ✅ saturday-8 [WEEK-14]
   
 #### Random Problems from Previous Weeks
 - prev. L ✅ sunday-2 [WEEK-13]
