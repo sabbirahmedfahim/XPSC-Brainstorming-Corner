@@ -8,7 +8,7 @@
 7. G ✅ CHECK OUT week-19, wednesday-5
 8. H ✅ CHECK OUT week-19, thursday-6
 9. I
-10. J
+10. J ✅ CHECK OUT week-20, sunday-2
 11. K
 12. L
 13. M ✅ CHECK OUT week-19, thursday-6
