@@ -9,4 +9,6 @@
 #### Random Problems from Previous Weeks
 - prev. F ✅ sunday-2 [WEEK-15]
 - prev. J ✅ sunday-2 [WEEK-15]
+- prev. O ✅ monday-3 [WEEK-15]
+- prev. L ✅ monday-3 [WEEK-15]
 
