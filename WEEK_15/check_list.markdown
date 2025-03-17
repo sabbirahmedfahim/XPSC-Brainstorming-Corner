@@ -10,10 +10,10 @@
 9. I
 10. J ✅ CHECK OUT week-20, sunday-2
 11. K
-12. L
+12. L ✅ CHECK OUT week-20, monday-3
 13. M ✅ CHECK OUT week-19, thursday-6
 14. N
-15. O
+15. O ✅ CHECK OUT week-20, monday-3
 
 ---
 
