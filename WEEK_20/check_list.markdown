@@ -11,4 +11,6 @@
 - prev. J ✅ sunday-2 [WEEK-15]
 - prev. O ✅ monday-3 [WEEK-15]
 - prev. L ✅ monday-3 [WEEK-15]
+- prev. K ✅ thursday-6 [WEEK-15]
+- prev. N ✅ thursday-6 [WEEK-15]
 
