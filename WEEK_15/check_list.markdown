@@ -7,7 +7,7 @@
 6. F ✅ CHECK OUT week-20, sunday-2
 7. G ✅ CHECK OUT week-19, wednesday-5
 8. H ✅ CHECK OUT week-19, thursday-6
-9. I
+9. I ✅
 10. J ✅ CHECK OUT week-20, sunday-2
 11. K ✅ CHECK OUT week-20, thursday-6
 12. L ✅ CHECK OUT week-20, monday-3
