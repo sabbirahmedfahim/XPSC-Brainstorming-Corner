@@ -3,9 +3,9 @@
 2. B ✅ CHECK OUT week-20, saturday-1
 3. C ✅ CHECK OUT week-20, saturday-1
 4. D ✅ CHECK OUT week-20, saturday-1
-5. E
+5. E ✅
 6. F ✅ CHECK OUT week-20, saturday-1
-7. G
+7. G ✅
 8. H ✅ CHECK OUT week-20, saturday-1
 9. I
 10. J
