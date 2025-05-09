@@ -8,11 +8,11 @@
 7. G ✅
 8. H ✅ CHECK OUT week-20, saturday-1
 9. I ✅
-10. J
-11. K
-12. L
+10. J ✅
+11. K ✅
+12. L ✅
 13. M ✅
-14. N
+14. N ✅
 ---
 ### Week 14 Random Problem Set
 1. A ✅ CHECK OUT week-19, sunday-2
